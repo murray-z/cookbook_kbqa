@@ -16,5 +16,9 @@
 # 效果展示
 
 
+https://github.com/user-attachments/assets/d533a56b-2b8c-4843-a028-8987fd8dacab
+
+
+
 # 数据来源
 - https://github.com/ngl567/CookBook-KG
