@@ -1,0 +1,9 @@
+
+# neo4j配置
+NEO4J_URI = "xxx"
+NEO4J_USERNAME = "xxx"
+NEO4J_PASSWORD = "xxx"
+
+# 阿里云百炼模型配置
+MODEL_NAME = "xxx"
+API_KEY = "sk-xxx"
